@@ -1,0 +1,4 @@
+["Winning App: UniWise",
+             "Developer: OGO Studio ",
+             "Category: Education",
+             "Institution represented: buffalo city public TVET college"],
